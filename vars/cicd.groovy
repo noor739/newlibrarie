@@ -7,3 +7,4 @@ def newMaven()
   sh 'mvn package'
 }
 
+
